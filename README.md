@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cue Sitthikon</h1>
 <h3 align="center">Software developer at T-Stone Co., Ltd.</h3>
 - 🔭 I’m currently working on backend developer
-- <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 
 <!--
 **sitthikon77/sitthikon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
