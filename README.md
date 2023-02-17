@@ -24,9 +24,13 @@
 
 ## <b> 🛠️ Tools
 <div>
+  <img src="https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm">
+  <img src="https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn">
+  <img src="https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
   <img src="https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket">
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
+  <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
   <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows">
   <img src="https://img.shields.io/badge/-Visual Studio Code-05122A?style=flat&logo=visualstudiocode">
 </div>
@@ -39,6 +43,7 @@
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
   <img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
+  <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
 </div>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Contact
