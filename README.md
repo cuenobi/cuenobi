@@ -6,10 +6,10 @@
 
 ## <b> ⌨️ Language Programming
 <div>
-  <img src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5">
-  <img src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5">
+  <img src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3">
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
 </div>
