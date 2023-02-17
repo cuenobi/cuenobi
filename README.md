@@ -49,11 +49,13 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
 </div>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Contact
+  <h2 align="center">Contact<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<div align="center">
   <a href="https://github.com/sitthikon77" target="_blank"><img src="https://img.shields.io/badge/sitthikon77-05122A?style=flat&logo=github"></a>
   <a href="https://www.linkedin.com/in/sitthikon" target="_blank"><img src="https://img.shields.io/badge/Sitthikon Khumtong-05122A?style=flat&logo=linkedin"></a>
   <a href="https://contacts.google.com/person/c7492447532582260557" target="_blank"><img src="https://img.shields.io/badge/sitthikon.work@gmail.com-05122A?style=flat&logo=gmail">
   <a href="https://line.me/ti/p/pRiG-Pt1Ir" target="_blank"><img src="https://img.shields.io/badge/cue.sit-05122A?style=flat&logo=line"></a>
+</div>
   
 <!--
 **sitthikon77/sitthikon77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
