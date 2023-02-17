@@ -55,6 +55,7 @@
   <a href="https://www.linkedin.com/in/sitthikon" target="_blank"><img src="https://img.shields.io/badge/Sitthikon Khumtong-05122A?style=flat&logo=linkedin"></a>
   <a href="https://contacts.google.com/person/c7492447532582260557" target="_blank"><img src="https://img.shields.io/badge/sitthikon.work@gmail.com-05122A?style=flat&logo=gmail">
   <a href="https://line.me/ti/p/pRiG-Pt1Ir" target="_blank"><img src="https://img.shields.io/badge/cue.sit-05122A?style=flat&logo=line"></a>
+  <img src="https://img.shields.io/badge/Cue#1620-05122A?style=flat&logo=discord">
 </div>
   
 <!--
