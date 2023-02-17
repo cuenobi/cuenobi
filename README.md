@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cue Sitthikon</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cue Sitthikon</h1>
 <h3 align="center">Software developer at T-Stone Co., Ltd. 🌟.</h3>
 - 🔭 I’m currently working on backend developer
 
