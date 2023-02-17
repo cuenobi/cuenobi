@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Cue Sitthikon</h1>
+<h3 align="center">Software developer at T-Stone Co., Ltd. 🌟.</h3>
 - 🔭 I’m currently working on backend developer
 
 <!--
