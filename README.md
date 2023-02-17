@@ -42,6 +42,7 @@
 </div>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Contact
+  <img src="https://img.shields.io/badge/sitthikon.work@gmail.com-05122A?style=flat&logo=gmail">
   <img src="https://img.shields.io/badge/cue.sit-05122A?style=flat&logo=line">
   
   
