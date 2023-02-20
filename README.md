@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket">
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
   <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
-  <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows">
+  <img src="https://img.shields.io/badge/-Windows Server-05122A?style=flat&logo=windows">
   <img src="https://img.shields.io/badge/-Visual Studio Code-05122A?style=flat&logo=visualstudiocode">
 </div>
 
