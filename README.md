@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
   <img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
-  <img src="https://img.shields.io/badge/-Momentjs-05122A?style=flat&logo=momentjs">
 </div>
 
   <h2 align="center">Contact<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
