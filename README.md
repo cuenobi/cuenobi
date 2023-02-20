@@ -42,9 +42,10 @@
   <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
   <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
+  <img src="https://img.shields.io/badge/-Microsoft SQL Server-05122A?style=flat&logo=microsoftsqlserver">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
   <img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
 </div>
