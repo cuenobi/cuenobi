@@ -14,7 +14,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
 </div>
 
-## <b> ⚙️ Framework / Environment
+## <b> ⚙️ Fram / Env / Lib
 <div>
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
