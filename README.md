@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cue Sitthikon</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I’m+currently+working+on+Back-End+Dev;Love+to+learn+new+stuff;I’m+currently+learning+DevOps.;Self-taught+Back-End+Developer;Yeah+I've+a+cat.&hearts;++;Nice+to+meet+you..;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I’m+currently+working+on+Back-End+Dev;Love+to+learn+new+stuff;I’m+currently+learning+DevOps.;and;learning+Front-End+Development;Self-taught+Back-End+Developer;Yeah+I've+a+cat.&hearts;++;Nice+to+meet+you..;">
 </p>
 
 
