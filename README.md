@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
   <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
-  <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue">
+  <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuejs">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
   <img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx">
