@@ -29,12 +29,13 @@
   <img src="https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn">
   <img src="https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm">
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
+  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
+  <img src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify">
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
+  <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
   <img src="https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket">
-  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
-  <img src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify">
-  <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
   <img src="https://img.shields.io/badge/-Windows Server-05122A?style=flat&logo=windows">
   <img src="https://img.shields.io/badge/-Visual Studio Code-05122A?style=flat&logo=visualstudiocode">
 </div>
