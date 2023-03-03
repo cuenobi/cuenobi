@@ -11,7 +11,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
 </div>
 
 ## <b> ⚙️ Fram / Env / Lib
