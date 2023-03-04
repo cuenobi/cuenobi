@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
   <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
 </div>
 
 ## <b> 🛠️ Tools
@@ -28,6 +27,7 @@
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
   <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify">
   <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
   <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
