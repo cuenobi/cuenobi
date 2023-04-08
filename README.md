@@ -7,6 +7,7 @@
 ## <b> ⌨️ Language Programming
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
+  <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-GO-05122A?style=flat&logo=go"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-html-05122A?style=flat&logo=html5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-css-05122A?style=flat&logo=css3"></a>
@@ -40,7 +41,6 @@
 
 ## <b>💡 Future skill
 <div>
-  <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-GO-05122A?style=flat&logo=go"></a>
   <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
   <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
