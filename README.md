@@ -15,8 +15,8 @@
 
 ## <b> ⚙️ Fram / Env / Lib
 <div>
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
