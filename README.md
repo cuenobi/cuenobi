@@ -17,6 +17,7 @@
 <div>
   <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs">
+<img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
@@ -29,7 +30,6 @@
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
   <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
   <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
   <img src="https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn">
   <img src="https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm">
