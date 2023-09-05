@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs">
-<img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
+  <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs">
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
@@ -37,7 +38,6 @@
 
 ## <b>💡 Future skill
 <div>
-  <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs">
   <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
   <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
   <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
