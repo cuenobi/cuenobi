@@ -11,7 +11,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"></a>
 </div>
 
-## <b> ⚙️ Fram / Env / Lib
+## <b> ⚙️ Stack
 <div>
   <img src="https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
