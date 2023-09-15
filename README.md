@@ -6,15 +6,15 @@
 
 ## <b> ⌨️ Language Programming
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
   <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-GO-05122A?style=flat&logo=go"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"></a>
 </div>
 
 ## <b> ⚙️ Fram / Env / Lib
 <div>
-  <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Fiber-05122A?style=flat&logo=go">
+  <img src="https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs">
   <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
