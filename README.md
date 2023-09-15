@@ -38,6 +38,7 @@
 
 ## <b>💡 Future skill
 <div>
+  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">
   <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
   <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
   <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
