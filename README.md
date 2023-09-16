@@ -6,9 +6,10 @@
 
 ## <b> ⌨️ Language Programming
 <div>
-  <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-GO-05122A?style=flat&logo=go"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"></a>
+  <img src="https://img.shields.io/badge/-GO-05122A?style=flat&logo=go">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
 </div>
 
 ## <b> ⚙️ Stack
