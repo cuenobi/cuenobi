@@ -8,8 +8,7 @@
 <div>
   <img src="https://img.shields.io/badge/-GO-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java">
 </div>
 
 ## <b> ⚙️ Stack
@@ -21,33 +20,34 @@
   <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
-  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
-  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
+  <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
+  <img src="https://img.shields.io/badge/-etcd-05122A?style=flat&logo=etcd">
+  <img src="https://img.shields.io/badge/-NATS.io-05122A?style=flat&logo=NATS.io">
 </div>
 
 ## <b> 🛠️ Tools
 <div>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/-GCP-05122A?style=flat&logo=Google Cloud">
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman">
   <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab">
+  <img src="https://img.shields.io/badge/-Sourcetree-05122A?style=flat&logo=Sourcetree">
+  <img src="https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=DBeaver">
   <img src="https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2">
-  <img src="https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn">
-  <img src="https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm">
-  <img src="https://img.shields.io/badge/-Windows Server-05122A?style=flat&logo=windows">
+  <img src="https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm">
+  <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu">
+  <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins">
 </div>
 
 ## <b>💡 Future skill
 <div>
-  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">
-  <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
-  <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
-  <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest">
-  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
+  <img src="https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=Apache Kafka">
+  <img src="https://img.shields.io/badge/-k8s-05122A?style=flat&logo=kubernetes">
+  <img src="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=Spring Boot">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
-  <img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx">
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
 </div>
 
   <h2 align="center">Contact<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
