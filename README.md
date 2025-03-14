@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
 </div>
 
-  <h2 align="center">Contact<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+  <h2 align="center">Contact</h2>
 <div align="center">
   <a href="https://github.com/sitthikon77" target="_blank"><img src="https://img.shields.io/badge/sitthikon77-05122A?style=flat&logo=github"></a>
   <a href="https://www.linkedin.com/in/sitthikon" target="_blank"><img src="https://img.shields.io/badge/Sitthikon Khumtong-05122A?style=flat&logo=linkedin"></a>
