@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-k6-05122A?style=flat&logo=k6">
   <img src="https://img.shields.io/badge/-etcd-05122A?style=flat&logo=etcd">
   <img src="https://img.shields.io/badge/-NATS.io-05122A?style=flat&logo=NATS.io">
+  <img src="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&logo=springboot">
 </div>
 
 ## <b> 🛠️ Tools
